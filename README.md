@@ -16,6 +16,7 @@ Done:
 5. Load the *.pb file and use to predict a whole *.h264 file (with save=False parameter) https://github.com/peter6888/keras-frcnn/blob/master/test.ipynb
 
 ### To do:
+0. use Python code to load *.pb and feed two inputs
 1. use c++ code to load *.pb
 2. use c++ code to draw a sample result
 
